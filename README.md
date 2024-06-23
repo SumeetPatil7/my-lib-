@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/mumal885/my-lib/blob/main/ml.png)
+![logo](https://github.com/SumeetPatil7/my-lib-/blob/main/my%20lib%20%2B/ml.png)
 # my-lib
 This my-lib is coded in html, css,js.
 
